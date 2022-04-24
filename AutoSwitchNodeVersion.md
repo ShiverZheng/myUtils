@@ -1,7 +1,10 @@
 - 安装 [oh my zsh](https://ohmyz.sh/)
 
 - 安装 [spaceship](https://github.com/spaceship-prompt/spaceship-prompt) 主题
+- 或 安装 [starship](https://starship.rs/zh-CN/config/)主题 速度更快一点
+    > [nodejs 无法显示icon问题](https://github.com/starship/starship/issues/2563)
 
+    > VSCode 在 Text Editor --> Font 内 添加 新增的字体名称
 - ```shell
   $ vim ~/.zshrc
   ```
