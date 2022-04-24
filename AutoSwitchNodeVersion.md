@@ -2,9 +2,12 @@
 
 - 安装 [spaceship](https://github.com/spaceship-prompt/spaceship-prompt) 主题
 - 或 安装 [starship](https://starship.rs/zh-CN/config/)主题 速度更快一点
-    > [nodejs 无法显示icon问题](https://github.com/starship/starship/issues/2563)
+    > 安装 Fira Code Retina Nerd Font Complete.ttf 字体
 
-    > VSCode 在 Text Editor --> Font 内 添加 新增的字体名称
+    > VSCode 在 Text Editor --> Font 内 添加 新增的字体名称['FiraCode Nerd Font']
+
+    > termial 在系统偏好选择安装好的字体
+    
 - ```shell
   $ vim ~/.zshrc
   ```
